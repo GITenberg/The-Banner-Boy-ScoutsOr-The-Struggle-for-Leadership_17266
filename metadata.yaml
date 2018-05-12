@@ -1,0 +1,27 @@
+_repo: The-Banner-Boy-ScoutsOr-The-Struggle-for-Leadership_17266
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warren, George A.
+    gutenberg_agent_id: '3215'
+    url: http://www.gutenberg.org/2009/agents/3215
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Banner Boy Scouts
+
+  Or, The Struggle for Leadership'
+url: http://www.gutenberg.org/ebooks/17266
